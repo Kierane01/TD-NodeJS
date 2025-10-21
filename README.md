@@ -1,7 +1,7 @@
 # TD-NodeJS
 TD sur TypeScript et la création d'API avec node.js
 
-# À qooi sert se TD ?
+# À quoi sert se TD ?
 
 Ce td nous à permis de comprendre comment gerer des API grâce à NodeJS et les fichiers JSON.
 
